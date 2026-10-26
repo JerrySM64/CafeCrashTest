@@ -2,6 +2,9 @@
 
 A small test application I made for my [Aroma Crash Handler Module](https://github.com/JerrySM64/aroma-crash-handler-module). It lets you trigger various kinds of crashes (DSI, ISI, Program, Alignment, broken stack) on purpose to test how the handler handles them.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/653f23b0-b667-4eb3-bde1-9a6dfaa28c66" />
+
+
 ## Controls
 
 - **A**: null write (DSI)
